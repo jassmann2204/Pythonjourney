@@ -1,0 +1,1 @@
+This repository is where I document my Python learning journey. It includes notes, code snippets, and small practice exercises to strengthen my foundation and prepare for advanced projects in the future.
